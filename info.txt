@@ -1,2 +1,30 @@
 Ali Cevat Erçal - 22103341 - https://github.com/cevatercal
 Favorite Video Game: Portal 2
+
+$ git log
+commit 15e15f9e5d74f5d178ae9e163d6ed3ce83bd4f63 (HEAD -> main, origin/main, origin/HEAD)
+Merge: 5398b2e 8b95595
+Author: Ali Cevat ERÇAL <41448673+cevatercal@users.noreply.github.com>
+Date:   Wed Feb 9 20:58:57 2022 +0300
+
+    Merge pull request #1 from cevatercal/new_information
+
+    Added favorite game
+
+commit 8b955950073d5ea87f19339703936ad460754572 (origin/new_information, new_information)
+Author: Ali Cevat Ercal <cevat.ercal@ug.bilkent.edu.tr>
+Date:   Wed Feb 9 20:54:15 2022 +0300
+
+    Added favorite game
+
+commit 5398b2e2deb93c754a511c793a5650ecd5a19d42
+Author: Ali Cevat Ercal <cevat.ercal@ug.bilkent.edu.tr>
+Date:   Wed Feb 9 20:46:47 2022 +0300
+
+    Name_of_the_student updated info.txt
+
+commit 416783660de62c8e46295eb6dddafb46a6def04d
+Author: Ali Cevat ERÇAL <41448673+cevatercal@users.noreply.github.com>
+Date:   Wed Feb 9 20:29:46 2022 +0300
+
+    Initial commit
